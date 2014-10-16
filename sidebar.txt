@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bmt:home|Door43 (bmt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bmt|d43-bmt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bmt/archive/master.zip|d43-bmt.zip]]
+
+**Recent Changes**
+{{changes>ns = bmt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bmt|Ethnologue data]]
+
